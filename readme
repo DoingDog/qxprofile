@@ -1,0 +1,11 @@
+# qxprofile
+
+profile.ini qx配置文件 请不要直接导入，而是作为模版修改
+
+ipapi-checker.js qx标题显示脚本 使用方式geo_location_checker=http://ip-api.com/json/?fields=21753855&lang=zh-CN,https://raw.githubusercontent.com/DoingDog/qxprofile/main/ipapi-checker.js
+
+GH-Accelerator.conf github反代加速重写 不建议使用
+
+bili ip.js已经废弃，请用Shawn原版
+
+其他乱文件
